@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.smbms.dao.role.RoleMapper">
+    <!--查询所有角色-->
+    <select id="getRoleList" resultType="role">
+        select * from smbms_role
+    </select>
+    <!--根据角色编码查角色信息-->
+    <select id="getRoleByRoleCode" resultType="role" parameterType="string">
+        select * from smbms_role where roleCode = #{roleCode}
+    </select>
+    <!--插入角色信息-->
+    <insert id="saveRole" parameterType="role">
+        insert into smbms_role(roleCode,roleName,createdBy,creationDate)
+        values(#{roleCode},#{roleName},#{createdBy},#{creationDate})
+    </insert>
+    <!--删除角色信息-->
+    <insert id="deleteRole" parameterType="string">
+        delete from smbms_role where id = #{id}
+    </insert>
+    <!--修改角色信息-->
+    <update id="modifyRole" parameterType="role">
+        update smbms_role set roleCode=#{roleCode},roleName=#{roleName},modifyBy=#{modifyBy},modifyDate=#{modifyDate} where id = #{id}
+    </update>
+    <!--根据编号查询角色信息-->
+    <select id="getRoleById" resultType="role">
+        select * from smbms_role where id = #{id}
+    </select>
+</mapper>

@@ -1,0 +1,155 @@
+2019-08-27 at 11:33:28 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-27 at 11:33:30 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator 5.4.1.Final
+2019-08-27 at 11:33:31 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 3272 ms
+2019-08-27 at 11:33:31 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-27 at 11:33:32 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 491 ms
+2019-08-27 at 11:33:34 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /favicon.ico
+2019-08-27 at 11:33:45 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /login
+2019-08-27 at 11:33:56 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 11:33:56 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 11:33:56 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 11:48:51 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-27 at 11:48:55 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-27 at 11:48:57 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5692 ms
+2019-08-27 at 11:48:57 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-27 at 11:48:57 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 618 ms
+2019-08-27 at 11:49:25 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /favicon.ico
+2019-08-27 at 11:49:59 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 11:49:59 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 11:49:59 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 11:50:21 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 11:50:21 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 11:50:21 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 11:51:51 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 11:51:51 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 11:51:51 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 11:51:54 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 11:51:54 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 11:51:54 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 11:51:55 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 11:51:55 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 11:51:55 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 11:51:55 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 11:51:55 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 11:51:55 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 11:56:37 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 11:56:37 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 11:56:37 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 11:57:03 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 11:57:03 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 11:57:03 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 12:04:39 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 12:04:39 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 12:04:39 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 12:04:40 CST INFO  cn.smbms.controller.UserController.toAddUserPage @101 :-> GO TO ADD USER PAGE ======
+2019-08-27 at 12:04:51 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 12:04:51 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 12:04:51 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:25:03 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-27 at 14:25:07 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-27 at 14:25:09 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5336 ms
+2019-08-27 at 14:25:09 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-27 at 14:25:10 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 743 ms
+2019-08-27 at 14:25:17 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /favicon.ico
+2019-08-27 at 14:26:20 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:26:20 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:26:20 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:28:41 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:28:41 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:28:41 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:29:19 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:29:19 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:29:19 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:29:25 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:29:25 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:29:25 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:29:36 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:
+2019-08-27 at 14:29:36 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:0
+2019-08-27 at 14:29:36 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:3
+2019-08-27 at 14:29:38 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:
+2019-08-27 at 14:29:38 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:0
+2019-08-27 at 14:29:38 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:1
+2019-08-27 at 14:29:40 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:
+2019-08-27 at 14:29:40 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:0
+2019-08-27 at 14:29:40 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:2
+2019-08-27 at 14:29:42 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:
+2019-08-27 at 14:29:42 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:0
+2019-08-27 at 14:29:42 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:3
+2019-08-27 at 14:29:43 CST INFO  cn.smbms.controller.UserController.toAddUserPage @101 :-> GO TO ADD USER PAGE ======
+2019-08-27 at 14:30:04 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:30:04 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:30:04 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:31:13 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:31:13 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:31:13 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:31:15 CST INFO  cn.smbms.controller.UserController.toAddUserPage @101 :-> GO TO ADD USER PAGE ======
+2019-08-27 at 14:31:45 CST INFO  cn.smbms.controller.UserController.AddUser @114 :-> uploadFile path ========> Z:\SpringMVC\smbms\src\main\webapp\images\uploadFiles
+2019-08-27 at 14:31:45 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> u=3025149090,3287134&fm=26&gp=0.jpg
+2019-08-27 at 14:31:45 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> TIM图片20190307190430.png
+2019-08-27 at 14:31:58 CST INFO  cn.smbms.controller.UserController.AddUser @114 :-> uploadFile path ========> Z:\SpringMVC\smbms\src\main\webapp\images\uploadFiles
+2019-08-27 at 14:31:58 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> 1fd69d587cb4493351c206b012fe937b.jpg
+2019-08-27 at 14:31:58 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> u=3025149090,3287134&fm=26&gp=0.jpg
+2019-08-27 at 14:33:00 CST INFO  cn.smbms.controller.UserController.AddUser @114 :-> uploadFile path ========> Z:\SpringMVC\smbms\src\main\webapp\images\uploadFiles
+2019-08-27 at 14:33:00 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> u=3025149090,3287134&fm=26&gp=0.jpg
+2019-08-27 at 14:33:00 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> 1561430403329.jpg
+2019-08-27 at 14:33:00 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:33:00 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:33:00 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:33:10 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:33:10 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:33:10 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:37:10 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:37:10 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:37:10 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:37:11 CST INFO  cn.smbms.controller.UserController.toAddUserPage @101 :-> GO TO ADD USER PAGE ======
+2019-08-27 at 14:37:38 CST INFO  cn.smbms.controller.UserController.AddUser @114 :-> uploadFile path ========> Z:\SpringMVC\smbms\src\main\webapp\images\uploadFiles
+2019-08-27 at 14:37:38 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> 1561430403329.jpg
+2019-08-27 at 14:37:38 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> 1000227.jpg
+2019-08-27 at 14:37:38 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:37:38 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:37:38 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:37:40 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:37:40 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:37:40 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:37:41 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:37:41 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:37:41 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:37:47 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:37:47 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:37:47 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:40:16 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:40:16 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:40:16 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:40:20 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:40:20 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:40:20 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:40:21 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:
+2019-08-27 at 14:40:21 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:0
+2019-08-27 at 14:40:21 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:3
+2019-08-27 at 14:40:23 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:
+2019-08-27 at 14:40:23 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:0
+2019-08-27 at 14:40:23 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:1
+2019-08-27 at 14:40:25 CST INFO  cn.smbms.controller.UserController.toAddUserPage @101 :-> GO TO ADD USER PAGE ======
+2019-08-27 at 14:40:42 CST INFO  cn.smbms.controller.UserController.AddUser @114 :-> uploadFile path ========> Z:\SpringMVC\smbms\src\main\webapp\images\uploadFiles
+2019-08-27 at 14:40:42 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> bgb.jpg
+2019-08-27 at 14:40:42 CST INFO  cn.smbms.controller.UserController.AddUser @120 :-> uploadFile oldName =======> timg (4).jpg
+2019-08-27 at 14:40:42 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:40:42 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:40:42 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:40:59 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:40:59 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:40:59 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:41:29 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:41:29 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:41:29 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:41:31 CST INFO  cn.smbms.controller.UserController.toAddUserPage @101 :-> GO TO ADD USER PAGE ======
+2019-08-27 at 14:41:43 CST INFO  cn.smbms.controller.UserController.AddUser @114 :-> uploadFile path ========> Z:\SpringMVC\smbms\src\main\webapp\images\uploadFiles
+2019-08-27 at 14:41:43 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:41:43 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:41:43 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:41:45 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:41:45 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:41:45 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-27 at 14:41:49 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-27 at 14:41:49 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-27 at 14:41:49 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null

@@ -1,0 +1,106 @@
+2019-08-26 at 10:10:32 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-26 at 10:10:40 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-26 at 10:10:42 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 10468 ms
+2019-08-26 at 10:10:43 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-26 at 10:10:43 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 709 ms
+2019-08-26 at 10:12:07 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /smbms
+2019-08-26 at 10:12:08 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /smbms
+2019-08-26 at 10:12:15 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /smbms
+2019-08-26 at 10:12:15 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /smbms
+2019-08-26 at 10:12:29 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /smbms/login/login
+2019-08-26 at 10:16:25 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-26 at 10:16:31 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-26 at 10:16:33 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 7770 ms
+2019-08-26 at 10:16:34 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-26 at 10:16:35 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1023 ms
+2019-08-26 at 10:16:44 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /favicon.ico
+2019-08-26 at 14:21:34 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-26 at 14:21:39 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-26 at 14:21:40 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5596 ms
+2019-08-26 at 14:21:40 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-26 at 14:21:41 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 833 ms
+2019-08-26 at 14:22:37 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /favicon.ico
+2019-08-26 at 14:23:19 CST INFO  cn.smbms.controller.UserController.getUserList @45 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:23:19 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:23:19 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> pageIndex:null
+2019-08-26 at 14:23:23 CST INFO  cn.smbms.controller.UserController.toAddUserPage @99 :-> GO TO ADD USER PAGE ======
+2019-08-26 at 14:23:56 CST INFO  cn.smbms.controller.UserController.toAddUserPage @99 :-> GO TO ADD USER PAGE ======
+2019-08-26 at 14:25:18 CST INFO  cn.smbms.controller.UserController.toAddUserPage @99 :-> GO TO ADD USER PAGE ======
+2019-08-26 at 14:25:37 CST INFO  cn.smbms.controller.UserController.toAddUserPage @99 :-> GO TO ADD USER PAGE ======
+2019-08-26 at 14:50:45 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:50:45 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:50:45 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 14:50:49 CST INFO  cn.smbms.controller.UserController.view @266 :-> SHOW USER VIEW AND ID ======= 43
+2019-08-26 at 14:50:56 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:50:56 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:50:56 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 14:51:10 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:51:10 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:51:10 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 14:51:19 CST INFO  cn.smbms.controller.UserController.view @266 :-> SHOW USER VIEW AND ID ======= 43
+2019-08-26 at 14:52:51 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-26 at 14:52:54 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-26 at 14:52:55 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4653 ms
+2019-08-26 at 14:52:56 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-26 at 14:52:56 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 577 ms
+2019-08-26 at 14:53:03 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:53:03 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:53:03 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 14:53:16 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:53:16 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:53:16 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 14:53:17 CST INFO  cn.smbms.controller.UserController.view @266 :-> SHOW USER VIEW AND ID ======= 43
+2019-08-26 at 14:53:39 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:53:39 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:53:39 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 14:56:24 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:56:24 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:56:24 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 14:56:36 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:56:36 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:56:36 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 14:57:24 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 14:57:24 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 14:57:24 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 15:06:04 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-26 at 15:06:08 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-26 at 15:06:09 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4704 ms
+2019-08-26 at 15:06:09 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-26 at 15:06:10 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 641 ms
+2019-08-26 at 15:06:59 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 15:06:59 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 15:06:59 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 15:07:02 CST INFO  cn.smbms.controller.UserController.view @266 :-> SHOW USER VIEW AND ID ======= 43
+2019-08-26 at 15:07:04 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 15:07:04 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 15:07:04 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 15:07:33 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 15:07:33 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 15:07:33 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 15:07:35 CST INFO  cn.smbms.controller.UserController.getUserById @242 :-> TO USER MODIFY --> GET USER BY ID UID=====11
+2019-08-26 at 15:07:38 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 15:07:38 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 15:07:38 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 15:09:09 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 15:09:09 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 15:09:09 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 15:15:09 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-26 at 15:15:13 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-26 at 15:15:14 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5059 ms
+2019-08-26 at 15:15:15 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-26 at 15:15:15 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 595 ms
+2019-08-26 at 15:16:04 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 15:16:04 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 15:16:04 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 15:19:04 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-26 at 15:19:07 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-26 at 15:19:09 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5211 ms
+2019-08-26 at 15:19:09 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-26 at 15:19:10 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 838 ms
+2019-08-26 at 15:19:11 CST INFO  cn.smbms.controller.UserController.getUserList @46 :-> getUserList ----> queryUserName:null
+2019-08-26 at 15:19:11 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserRole:null
+2019-08-26 at 15:19:11 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> pageIndex:null
+2019-08-26 at 15:37:27 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-26 at 15:37:31 CST WARN  org.springframework.context.support.AbstractApplicationContext.__refresh @557 :-> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.web.servlet.view.ContentNegotiatingViewResolver#0' defined in file [Z:\SpringMVC\smbms\target\classes\applicationContext-mvc.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'favorParameter' of bean class [org.springframework.web.servlet.view.ContentNegotiatingViewResolver]: Bean property 'favorParameter' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+2019-08-26 at 15:39:08 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-26 at 15:39:11 CST WARN  org.springframework.context.support.AbstractApplicationContext.__refresh @557 :-> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.web.servlet.view.ContentNegotiatingViewResolver#0' defined in file [Z:\SpringMVC\smbms\target\classes\applicationContext-mvc.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'favorParameter' of bean class [org.springframework.web.servlet.view.ContentNegotiatingViewResolver]: Bean property 'favorParameter' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?

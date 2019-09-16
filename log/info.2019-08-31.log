@@ -1,0 +1,12 @@
+2019-08-31 at 08:56:45 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-31 at 08:56:54 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator null
+2019-08-31 at 08:56:57 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 12003 ms
+2019-08-31 at 08:56:58 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-31 at 08:56:58 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 608 ms
+2019-08-31 at 08:57:39 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /favicon.ico
+2019-08-31 at 08:59:19 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-31 at 08:59:19 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-31 at 08:59:19 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null
+2019-08-31 at 09:03:20 CST INFO  cn.smbms.controller.UserController.getUserList @47 :-> getUserList ----> queryUserName:null
+2019-08-31 at 09:03:20 CST INFO  cn.smbms.controller.UserController.getUserList @48 :-> getUserList ----> queryUserRole:null
+2019-08-31 at 09:03:20 CST INFO  cn.smbms.controller.UserController.getUserList @49 :-> getUserList ----> pageIndex:null

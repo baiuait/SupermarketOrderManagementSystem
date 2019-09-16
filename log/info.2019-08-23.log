@@ -1,0 +1,16 @@
+2019-08-23 at 14:47:08 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-23 at 14:47:10 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator 5.4.1.Final
+2019-08-23 at 14:47:10 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2496 ms
+2019-08-23 at 14:47:11 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-23 at 14:47:11 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 503 ms
+2019-08-23 at 14:47:45 CST WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /favicon.ico
+2019-08-23 at 17:38:32 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-23 at 17:38:34 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator 5.4.1.Final
+2019-08-23 at 17:38:34 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2734 ms
+2019-08-23 at 17:38:35 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-23 at 17:38:35 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 406 ms
+2019-08-23 at 17:39:49 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-08-23 at 17:39:50 CST INFO  org.hibernate.validator.internal.util.Version.<clinit> @30 :-> HV000001: Hibernate Validator 5.4.1.Final
+2019-08-23 at 17:39:51 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2141 ms
+2019-08-23 at 17:39:51 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-08-23 at 17:39:52 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 344 ms
